@@ -1,6 +1,6 @@
 ---
 <!-- layout: page -->
-title: About
+title: Suporte e Contatos
 permalink: /horariospucpr/support/
 ---
 
