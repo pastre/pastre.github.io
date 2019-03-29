@@ -1,7 +1,7 @@
 ---
 <!-- layout: page -->
 title: Suporte e Contatos
-permalink: /horariospucpr/privacy/
+permalink: /bubbles/privacy/
 ---
 
 
