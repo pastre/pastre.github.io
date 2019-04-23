@@ -23,31 +23,13 @@
 </head>
 <body>
 
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
-      </button>
-      <a class="navbar-brand" href="#">Portfolio</a>
-    </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Experiences</a></li>
-        <li><a href="#">Goals</a></li>
-      </ul>
-      <!--
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-      </ul>
-      -->
-    </div>
-  </div>
-</nav>
+<div class ="container-fluid" id="header"> </div>
+
+<script type="text/javascript">
+ $(function(){
+ $("#header").load("header.html"); 
+ });
+   </script>
 
 <div class="jumbotron">
   <div class="container text-center">
@@ -58,12 +40,10 @@
 </div>
   
 <div class="container-fluid bg-3 text-center">    
-  <h3>Some of my Work</h3><br>
   <div class="row">
     <div class="col-sm-3">
     <a href="bubbles/index.html">
-      <p>Bubbles App</p>
-      <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/09/44/0b/09440b1f-210b-863d-13b7-527d0cc8d8f4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/230x0w.jpg" class="img-responsive" style="width:100%" alt="Image">
+      <p><a href="bubbles/privacy.html">Privacy</a></p>
       </a>
     </div>
     <div class="col-sm-3"> 
