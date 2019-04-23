@@ -8,11 +8,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-     $(function(){
-     $("#header").load("header.html"); 
-     });
-  </script>
+
   <style>
     /* Remove the navbar's default margin-bottom and rounded borders */ 
     .navbar {
@@ -29,9 +25,12 @@
 </head>
 <body>
 
-<div class ="container-fluid" id="header"> </div>
+<div class ="header" id="header"> 
+
+</div>
 <script>
    $(function(){
+      console.log("Carregando essa zueira")
      $("#header").load("header.html"); 
    });
 </script>
