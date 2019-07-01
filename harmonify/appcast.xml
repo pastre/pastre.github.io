@@ -8,7 +8,7 @@
 			<title>Color Picker 0.0.1</title>
 			<sparkle:releaseNotesLink xml:lang="en">https://pastre.github.io/harmonify/index.html</sparkle:releaseNotesLink>
 			<pubDate>Sun, 30 Jun 2019 23:53:00 +0900</pubDate>
-			<enclosure url="https://pastre.github.io/harmonfy/HarmonifyMacOS.dmg" sparkle:version="1.2.1" length="20181012" type="application/octet-stream" sparkle:dsaSignature="MCwCFFzFhCdNa/sSq+ggDxJezyBNNf8IAhQWzbx8qRbBaB1iCAscpgsr/dNElQ=="/>
+			<enclosure url="https://github.com/pastre/HarmonifyMacOS/releases/download/0.0.1/HarmonifyMacOS.2019-07-01.11-14-25.dmg" sparkle:version="1.2.1" length="20181012" type="application/octet-stream" sparkle:dsaSignature="MCwCFFzFhCdNa/sSq+ggDxJezyBNNf8IAhQWzbx8qRbBaB1iCAscpgsr/dNElQ=="/>
 			</item>
 	</channel>
 </rss>
