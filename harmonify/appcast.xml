@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1">
+<<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title> Easy Color Picker</title>
-		<link>https://pastre.github.io/harmonify/appcast.xml</link>
-		<description>Versao 1</description>
-		<language>en</language>
-		<item>
-			<title>V1</title>
-			<description>
-				<![CDATA[
-				<h3> SACA SO </h3>
-				]]>
-			</description>
-			<pubDate> Sun, 30 Jun 2019 23:33:00</pubDate>
-			<enclosure url="https://pastre.github.io/harmonify/HarmonifyMacOS.dmg" type="application/harmonify"/>
-		</item>
+		<title>Easy Color Picker</title>
+		<link>https://pastre.github.io/harmonfy/appcast.xml</link>
+		<description>Easy color picker update changelog.</description>
+			<item>
+			<title>Color Picker 0.0.1</title>
+			<sparkle:releaseNotesLink xml:lang="en">https://clipy-app.com/releasenotes/1.2.1.en.html</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink xml:lang="ja">https://clipy-app.com/releasenotes/1.2.1.ja.html</sparkle:releaseNotesLink>
+			<pubDate>Thu, 11 Oct 2018 05:00:00 +0900</pubDate>
+			<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+			<enclosure url="https://github.com/Clipy/Clipy/releases/download/1.2.1/Clipy_1.2.1.dmg" sparkle:version="1.2.1" length="20181012" type="application/octet-stream" sparkle:dsaSignature="MCwCFFzFhCdNa/sSq+ggDxJezyBNNf8IAhQWzbx8qRbBaB1iCAscpgsr/dNElQ=="/>
+			</item>
 	</channel>
 </rss>
-
