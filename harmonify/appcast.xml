@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1">
+	<channel>
+		<title> Easy Color Picker</title>
+		<link>https://pastre.github.io/harmonify/appcast.xml</link>
+		<description>Versao 1</description>
+		<language>en</language>
+		<item>
+			<title>V1</title>
+			<description>
+				<![CDATA[
+				<h3> SACA SO </h3>
+				]]>
+			</description>
+			<pubDate> Sun, 30 Jun 2019 23:33:00</pubDate>
+			<enclosure url="https://pastre.github.io/harmonify/HarmonifyMacOS.dmg" type="application/harmonify"/>
+		</item>
+	</channel>
+</rss>
+
