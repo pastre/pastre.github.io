@@ -3,12 +3,12 @@
 	<channel>
 		<title>Easy Color Picker</title>
 		<link>https://pastre.github.io/harmonfy/appcast.xml</link>
-		<description>Easy color picker update changelog.</description>
+		<description>Easy color picker update changelog</description>
 			<item>
-			<title>Easy Color Picker 2.0</title>
-			<sparkle:releaseNotesLink xml:lang="en">https://pastre.github.io/harmonify/index.html</sparkle:releaseNotesLink>
+			<title>Easy Color Picker 2.1</title>
+			<sparkle:releaseNotesLink xml:lang="en">https://pastre.github.io/harmonify/changelog.html</sparkle:releaseNotesLink>
 			<pubDate>Sun, 30 Jun 2019 23:53:00 +0900</pubDate>
-			<enclosure url="https://github.com/pastre/HarmonifyMacOS/releases/download/v2/Easy.Color.Picker.dmg" sparkle:version="2" length="20181012" type="application/octet-stream" sparkle:dsaSignature="MCwCFFzFhCdNa/sSq+ggDxJezyBNNf8IAhQWzbx8qRbBaB1iCAscpgsr/dNElQ=="/>
+			<enclosure url="https://github.com/pastre/HarmonifyMacOS/releases/download/v2.1/Easy.Color.Picker.dmg" sparkle:version="2.1" length="20181012" type="application/octet-stream" sparkle:dsaSignature="MCwCFFzFhCdNa/sSq+ggDxJezyBNNf8IAhQWzbx8qRbBaB1iCAscpgsr/dNElQ=="/>
 			</item>
 	</channel>
 </rss>
